@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-💼I'm currently working as Cyber Security Trainee in Startup Company beside <br>🧑🏽‍🏫I'm currently learning Full Stack Web Development <br>👨🏻‍💼Getting myself ready for further oppurtunites in future.<br>👨🏽‍🔧My skills are Python, Linux, HTML, CSS, JavaScript(Learning)
+💼I'm currently working as Cyber Security Trainee in Startup Company beside <br>🧑🏽‍🏫I'm currently learning Front End Web Development <br>👨🏻‍💼Getting myself ready for further oppurtunites in future.<br>👨🏽‍🔧My skills are Python, Linux, HTML, CSS, JavaScript(Learning)
 
 
 ## 🌐 Socials:
